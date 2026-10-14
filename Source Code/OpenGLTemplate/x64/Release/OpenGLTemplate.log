@@ -1,0 +1,27 @@
+﻿cl : command line  warning D9047: option 'await' has been deprecated and will be removed in a future release.
+      Standard C++ coroutines are available by default in C++20 or later, or use '/await:strict' in earlier language modes.
+  Audio.cpp
+  BoostPad.cpp
+  Camera.cpp
+  CameraPath.cpp
+  Car.cpp
+  Cubemap.cpp
+  FreeTypeFont.cpp
+  Game.cpp
+  GameWindow.cpp
+  HighResolutionTimer.cpp
+  MatrixStack.cpp
+  OpenAssetImportMesh.cpp
+  PlayerCar.cpp
+  Shaders.cpp
+  Skybox.cpp
+  StartLine.cpp
+  Texture.cpp
+  VertexBufferObject.cpp
+  VertexBufferObjectIndexed.cpp
+     Creating library C:\Users\bezha\OneDrive - City, University of London\Yr3\Computer Graphics\Full Coursework\x64\Release\OpenGLTemplate.lib and object C:\Users\bezha\OneDrive - City, University of London\Yr3\Computer Graphics\Full Coursework\x64\Release\OpenGLTemplate.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1369 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  OpenGLTemplate.vcxproj -> C:\Users\bezha\OneDrive - City, University of London\Yr3\Computer Graphics\Full Coursework\x64\Release\OpenGLTemplate.exe

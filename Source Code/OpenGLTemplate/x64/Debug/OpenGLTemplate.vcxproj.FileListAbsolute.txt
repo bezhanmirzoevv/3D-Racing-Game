@@ -1,0 +1,12 @@
+C:\Users\bezha\OneDrive - City, University of London\Yr3\Computer Graphics\Template2026\OpenGLTemplate\x64\Debug\OpenGLTemplate.vcxproj.MdMergeInputs.cache
+C:\Users\bezha\OneDrive - City, University of London\Yr3\Computer Graphics\Template2026\OpenGLTemplate\x64\Debug\OpenGLTemplate.vcxproj.cppwinrt_plat.cache
+C:\Users\bezha\OneDrive - City, University of London\Yr3\Computer Graphics\Template2026\OpenGLTemplate\x64\Debug\OpenGLTemplate.vcxproj.cppwinrt_comp.cache
+C:\Users\bezha\OneDrive - City, University of London\Yr3\Computer Graphics\Template2026 - Copy\OpenGLTemplate\x64\Debug\OpenGLTemplate.vcxproj.MdMergeInputs.cache
+C:\Users\bezha\OneDrive - City, University of London\Yr3\Computer Graphics\Template2026 - Copy\OpenGLTemplate\x64\Debug\OpenGLTemplate.vcxproj.cppwinrt_plat.cache
+C:\Users\bezha\OneDrive - City, University of London\Yr3\Computer Graphics\Template2026 - Copy\OpenGLTemplate\x64\Debug\OpenGLTemplate.vcxproj.cppwinrt_comp.cache
+C:\Users\bezha\OneDrive - City, University of London\Yr3\Computer Graphics\Mirzoev_Template\OpenGLTemplate\x64\Debug\OpenGLTemplate.vcxproj.MdMergeInputs.cache
+C:\Users\bezha\OneDrive - City, University of London\Yr3\Computer Graphics\Mirzoev_Template\OpenGLTemplate\x64\Debug\OpenGLTemplate.vcxproj.cppwinrt_plat.cache
+C:\Users\bezha\OneDrive - City, University of London\Yr3\Computer Graphics\Mirzoev_Template\OpenGLTemplate\x64\Debug\OpenGLTemplate.vcxproj.cppwinrt_comp.cache
+C:\Users\bezha\Downloads\Mirzoev_220004013_Demo\OpenGLTemplate\x64\Debug\OpenGLTemplate.vcxproj.MdMergeInputs.cache
+C:\Users\bezha\Downloads\Mirzoev_220004013_Demo\OpenGLTemplate\x64\Debug\OpenGLTemplate.vcxproj.cppwinrt_plat.cache
+C:\Users\bezha\Downloads\Mirzoev_220004013_Demo\OpenGLTemplate\x64\Debug\OpenGLTemplate.vcxproj.cppwinrt_comp.cache

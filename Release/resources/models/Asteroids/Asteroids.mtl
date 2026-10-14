@@ -1,0 +1,90 @@
+# Blender 5.1.0 MTL File: 'None'
+# www.blender.org
+
+newmtl space_asteroids_02_l_0001
+Ns 0.999999
+Ka 0.200000 0.200000 0.200000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd space_asteroids_02_l_0001.jpg
+map_Bump space_asteroids_02_l_0001_b.png
+
+newmtl space_asteroids_02_l_0002
+Ns 0.999999
+Ka 0.200000 0.200000 0.200000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd space_asteroids_02_l_0002.jpg
+map_Bump space_asteroids_02_l_0002_b.png
+
+newmtl space_asteroids_02_l_0003
+Ns 0.999999
+Ka 0.200000 0.200000 0.200000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd space_asteroids_02_l_0003.jpg
+map_Bump space_asteroids_02_l_0003_b.png
+
+newmtl space_asteroids_02_l_0004
+Ns 0.999999
+Ka 0.200000 0.200000 0.200000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd space_asteroids_02_l_0004.jpg
+map_Bump space_asteroids_02_l_0004_b.png
+
+newmtl space_asteroids_02_l_0005
+Ns 0.999999
+Ka 0.200000 0.200000 0.200000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd space_asteroids_02_l_0005.jpg
+map_Bump space_asteroids_02_l_0005_b.png
+
+newmtl space_asteroids_02_l_0006
+Ns 0.999999
+Ka 0.200000 0.200000 0.200000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd space_asteroids_02_l_0006.jpg
+map_Bump space_asteroids_02_l_0006_b.png
+
+newmtl space_asteroids_02_l_0007
+Ns 0.999999
+Ka 0.200000 0.200000 0.200000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd space_asteroids_02_l_0007.jpg
+map_Bump space_asteroids_02_l_0007_b.png
+
+newmtl space_asteroids_02_l_0008
+Ns 0.999999
+Ka 0.200000 0.200000 0.200000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd space_asteroids_02_l_0008.jpg
+map_Bump space_asteroids_02_l_0008_b.png
